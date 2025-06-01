@@ -26,7 +26,8 @@ toegekend is doorsturen (escaleren)
 
 # TOPdesk 2020 Processenoverzicht
 
-Dit document beschrijft de kernprocessen binnen de TOPdesk 2020-omgeving, inclusief hun onderliggende activiteiten. Deze processen dragen bij aan een gestructureerde IT-servicemanagementomgeving. DIT IS VAN EEN OEFEN OPDRACHT B1-K1-W3
+Dit document beschrijft de kernprocessen binnen de TOPdesk 2020-omgeving, inclusief hun onderliggende activiteiten. Deze processen dragen bij aan een gestructureerde IT-servicemanagementomgeving. 
+### DIT IS VAN EEN OEFEN OPDRACHT B1-K1-W3
 
 ---
 
