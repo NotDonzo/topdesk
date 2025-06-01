@@ -1,10 +1,32 @@
 # topdesk
 
+
+### zie cum.png voor een voorbeeld van een processflow
+
+### b1-w1-K1
+
+### k = klacht
+### die moet je escaleren
+### A is afwijzen met maar 1 screenshot
+### g is een gebruikersvraag die je zelf moet oplossen
+### z is zelfoplossen
+### s is security
+### w is wijziging
+### t is topdesk
+### e is escaleren
+
+het is altijd email
+je naam is paul middelkoop
+geen object ruimte
+toegekend is doorsturen (escaleren)
+
+---
+
 ### b1-w1-K3
 
 # TOPdesk 2020 Processenoverzicht
 
-Dit document beschrijft de kernprocessen binnen de TOPdesk 2020-omgeving, inclusief hun onderliggende activiteiten. Deze processen dragen bij aan een gestructureerde IT-servicemanagementomgeving.
+Dit document beschrijft de kernprocessen binnen de TOPdesk 2020-omgeving, inclusief hun onderliggende activiteiten. Deze processen dragen bij aan een gestructureerde IT-servicemanagementomgeving. DIT IS VAN EEN OEFEN OPDRACHT B1-K1-W3
 
 ---
 
@@ -79,3 +101,4 @@ Het proces **Meldingenbeheer** richt zich op het efficiënt registreren, classif
   Overzicht creëren van gebruik, kosten en prestaties.
 
 ---
+
